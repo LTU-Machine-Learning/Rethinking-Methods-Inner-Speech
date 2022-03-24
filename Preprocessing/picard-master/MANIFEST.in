@@ -1,0 +1,25 @@
+include *.rst
+include LICENSE
+include picard/__init__.py
+include *.png
+include requirements.txt
+
+recursive-include examples *.py
+recursive-include examples *.txt
+
+recursive-include picard *.py
+
+### Exclude
+
+exclude Makefile
+exclude .coveragerc
+exclude .circleci/*
+exclude *.yml
+
+exclude dictionary.txt
+exclude .mailmap
+recursive-exclude picard *.pyc
+
+recursive-exclude doc *
+recursive-exclude matlab_octave *
+recursive-exclude examples/matlab_octave *
