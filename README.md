@@ -20,6 +20,7 @@ This folder contains the training scripts for both vowel and words. Dependent fu
 This folder contains testing script along with trained models.
 
 
+
 ***The comments are available in the script to follow the process. The script contains; data parameters, CNN parameters, 
 CNN architecture, data split, reshape, and CNN training options and training.
 
