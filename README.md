@@ -20,13 +20,13 @@ This folder contains the training scripts for both vowel and words. Dependent fu
 This folder contains testing script along with trained models.
 
 
-
-***The comments are available in the script to follow the process. The script contains; data parameters, CNN parameters, 
+### Note
+The comments are available in the script to follow the process. The script contains; data parameters, CNN parameters, 
 CNN architecture, data split, reshape, and CNN training options and training.
 
-***Link for raw data: http://fich.unl.edu.ar/sinc/downloads/imagined_speech/
+Link for raw data: http://fich.unl.edu.ar/sinc/downloads/imagined_speech/
 
-****More important: Dataset used in this work [1]. Original architeture used in this work was proposed in the paper.[2]
+More important: Dataset used in this work [1]. Original architeture used in this work was proposed in the paper.[2]
 
 ## Citing this work
 
