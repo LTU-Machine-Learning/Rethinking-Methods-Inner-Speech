@@ -9,6 +9,7 @@ The code is divided into following chunks: Preprocessing, training, and testing.
 
 This folder contains, files and functions which were used during the preprocessing of both vowel and words. Here, folders 
 which having processed data with and without downsanling have also been shared.
+
 Link to download picard matlab version: https://github.com/pierreablin/picard
 
 ## Training_and_functions
