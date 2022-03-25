@@ -25,3 +25,27 @@ This folder contains testing script along with trained models.
 CNN architecture, data split, reshape, and CNN training options and training.
 
 ***Link for raw data: http://fich.unl.edu.ar/sinc/downloads/imagined_speech/
+****More important: This program was run on dataset-2017 [1]. The architeture used, was proposed in the paper.[2]
+
+## Citing this work
+
+Please cite this work.
+```bibtex
+    @article {Simistira Liwicki2022.03.22.485286,
+	author = {Simistira Liwicki, Foteini and Gupta, Vibha and Saini, Rajkumar and De, Kanjar and Liwicki, Marcus},
+	title = {Rethinking the Methods and Algorithms for Inner Speech Decoding - and Making them Reproducible},
+	elocation-id = {2022.03.22.485286},
+	year = {2022},
+	doi = {10.1101/2022.03.22.485286},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2022/03/23/2022.03.22.485286},
+	eprint = {https://www.biorxiv.org/content/early/2022/03/23/2022.03.22.485286.full.pdf},
+	journal = {bioRxiv}
+    }
+
+```
+
+## References
+[1] Coretto, Germán A. Pressel, Iván E. Gareis, and H. Leonardo Rufiner. "Open access database of EEG signals recorded during imagined speech." 12th International Symposium on Medical Information Processing and Analysis. Vol. 10160. International Society for Optics and Photonics, 2017.
+
+[2] Cooney, C., Folli, R. and Coyle, D., 2019, October. Optimizing layers improves CNN generalization and transfer learning for imagined speech decoding from EEG. In 2019 IEEE international conference on systems, man and cybernetics (SMC) (pp. 1311-1316). IEEE. 
