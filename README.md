@@ -3,14 +3,14 @@
 This repository contains codes for paper titled as 'Rethinking the Methods and Algorithms for Inner Speech
 Decoding - and Making them Reproducible'. 
 
-The code is divided into following chunks: Preprocessing, training, and testing. The folder details are as follows
+The code is divided into following chunks: Preprocessing, training, and testing. The folder details are as follows:
 
 ## Preprocessing
 
 This folder contains, files and functions which were used during the preprocessing of both vowel and words. Here, folders 
-which having processed data with and without downsanling have also been shared.
+which having processed data with and without downsampling have also been shared.
 
-Link to download picard matlab version: https://github.com/pierreablin/picard
+The matalab code used for preconditioned ICA for Real Data Link is based on the original repository of: https://github.com/pierreablin/picard
 
 ## Training_and_functions
 
