@@ -26,7 +26,8 @@ CNN architecture, data split, reshape, and CNN training options and training.
 
 Link for raw data: http://fich.unl.edu.ar/sinc/downloads/imagined_speech/
 
-More important: Dataset used in this work [1]. Original architeture used in this work was proposed in the paper.[2]
+The original dataset used in this work can be found in [1]. 
+The proposed architeture used in this study is based on [2].
 
 ## Citing this work
 
