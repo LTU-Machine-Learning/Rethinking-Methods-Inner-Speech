@@ -6,7 +6,7 @@ ratio=[80,10,10];
 seed_value=[99,1000,34,389,5000];
 
 
-base_path='Where processed data has been saved';
+data_path='Where processed data has been saved';
 cl='vowels'; %  for vowels
 num_trails=5;
 
