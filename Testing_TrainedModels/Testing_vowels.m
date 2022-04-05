@@ -10,8 +10,8 @@ seed_value=[99,1000,34,389,5000];
 
 
 %%Path for data and trained models
-data_path= 'E:\Rethinking-Methods-Inner-Speech\Preprocessing\';  % Where processed data has been saved';
-model_save_path= 'E:\Rethinking-Methods-Inner-Speech\'; %Where trained models hasve been saved ';
+data_path= 'Where processed data has been saved';
+model_save_path= 'Where trained models hasve been saved ';
 
 cl='vowels'; %  for vowels
 num_trails=5;
