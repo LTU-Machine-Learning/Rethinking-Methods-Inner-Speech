@@ -12,6 +12,7 @@ seed_value=[99,1000,34,389,5000];
 data_path= 'Where processed data has been saved';
 model_save_path= 'Where trained models hasve been saved ';
 
+
 cl='words'; %  for words
 num_trails=5;
 
