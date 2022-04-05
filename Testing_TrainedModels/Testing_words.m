@@ -9,9 +9,8 @@ seed_value=[99,1000,34,389,5000];
 
 
 %%Path for data and trained models
-data_path='Where processed data has been saved';
-model_save_path='Where trained models hasve been saved ';
-
+data_path= 'Where processed data has been saved';
+model_save_path= 'Where trained models hasve been saved ';
 
 cl='words'; %  for words
 num_trails=5;
@@ -42,7 +41,7 @@ for j=9 % number of subjects
          
 
             %%%Loading training models
-            filename_model=[model_save_path,'\Trained_models_words_downsampled128\Trained_model_',subj,'_',num2str(trails),'.mat']
+            filename_model=[model_save_path,'\Testing_TrainedModels\Trained_models_words_downsampled128\Trained_model_',subj,'_',num2str(trails),'.mat']
             load(filename_model);
 
             %%%Predcition on test data
